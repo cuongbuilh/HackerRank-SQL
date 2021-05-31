@@ -1,3 +1,3 @@
 # HackerRank-SQL
 this repository saved sql code when i practice sql on hackerrank.com
-> [hackerrank.com/cuongbuilh](hackerrank.com/cuongbuilh)
+> [hackerrank.com/cuongbuilh](http://hackerrank.com/cuongbuilh)
